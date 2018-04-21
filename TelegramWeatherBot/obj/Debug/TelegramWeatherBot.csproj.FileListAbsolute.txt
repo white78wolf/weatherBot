@@ -1,0 +1,8 @@
+c:\users\андрей\documents\visual studio 2012\Projects\TelegramWeatherBot\TelegramWeatherBot\bin\Debug\TelegramWeatherBot.exe.config
+c:\users\андрей\documents\visual studio 2012\Projects\TelegramWeatherBot\TelegramWeatherBot\bin\Debug\TelegramWeatherBot.exe
+c:\users\андрей\documents\visual studio 2012\Projects\TelegramWeatherBot\TelegramWeatherBot\bin\Debug\TelegramWeatherBot.pdb
+c:\users\андрей\documents\visual studio 2012\Projects\TelegramWeatherBot\TelegramWeatherBot\bin\Debug\Newtonsoft.Json.dll
+c:\users\андрей\documents\visual studio 2012\Projects\TelegramWeatherBot\TelegramWeatherBot\bin\Debug\Newtonsoft.Json.xml
+c:\users\андрей\documents\visual studio 2012\Projects\TelegramWeatherBot\TelegramWeatherBot\obj\Debug\TelegramWeatherBot.csprojResolveAssemblyReference.cache
+c:\users\андрей\documents\visual studio 2012\Projects\TelegramWeatherBot\TelegramWeatherBot\obj\Debug\TelegramWeatherBot.exe
+c:\users\андрей\documents\visual studio 2012\Projects\TelegramWeatherBot\TelegramWeatherBot\obj\Debug\TelegramWeatherBot.pdb
