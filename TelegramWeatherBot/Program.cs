@@ -18,11 +18,11 @@ namespace TelegramWeatherBot
             string messageFromId = "";
             string messageText = "";
             string first_name = "";
-            string token = "508642044:AAGHoNumuYYZPsCMOifBrnLeFD2fQqifsUc"; // токен моего погодного бота
+            string token = "someToken"; // токен моего погодного бота
             string startUrl = String.Format("https://api.telegram.org/bot{0}", token);
 
             WebClient webClient = new WebClient();
-            //WebProxy wp = new WebProxy("http://5.189.165.75:1080");
+            //WebProxy wp = new WebProxy("http://ip:port");
             //webClient.Proxy = wp;
 
             while (true) // Сверка с чатом на предмет новых сообщений и реагирование на них с методом GetWeather(city)
