@@ -1,3 +1,2 @@
 # weatherBot
-# Писали погодного бота на 2-дневном интенсиве по C# в GeekBrains.
-# Дописал по мелочи, до блокировки телеграма работало корректно.
+# Telegram bot for receiving brief information about weather for next day in a few cities
